@@ -1,0 +1,66 @@
+.container{
+	background-color:rgb(240,240,240); 
+	border-radius: 5px;
+	margin-bottom: 25px;
+}
+
+.header{
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.header h1{
+	font-family: sans-serif;
+	padding-top: 30px;
+	}
+
+	.sub{
+		font-size: 20px;
+	}
+
+	.images{
+		background-color:rgb(255,255,255);
+		padding-top: 50px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		
+	}
+
+	.name{
+		padding-bottom: 0px;
+		text-align: center;
+		padding-bottom: 0.1px;
+		font-size: 15px;
+		font-family: sans-serif;
+	}
+
+	.heading1{
+		text-align: center;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		font-family: sans-serif;
+	}
+
+	.info{
+		margin-left: 350px;
+		margin-right: 350px;
+		font-style: sans-serif;
+	}
+
+	.blog{
+		margin-left: 350px;
+		margin-right: 350px;
+	}
+
+	.footer{
+		margin-left: 270px;
+		font-family: sans-serif;
+		padding-bottom: 10px;
+	}
