@@ -1,0 +1,71 @@
+body{
+	font-family: sans-serif;
+	background-image: url("https://thumbs.dreamstime.com/z/survey-form-clipboard-hands-landing-page-feedback-concept-online-customer-service-web-template-check-list-pen-violet-134000714.jpg") ;
+	background-attachment: fixed; 
+}
+
+.heading, .subhead{
+	text-align: center;
+	color: white;
+}
+
+.heading{
+	padding-top:100px;
+}
+
+label{
+	color: white;
+}
+
+.container{
+	background-color:rgba(27, 27, 50, 0.8);
+	margin-left: 30px;
+	width: 700px;
+	margin-left: 350px;
+	border-radius: 5px;
+	margin-bottom: none; 
+	opacity: 0.9;
+	
+}
+
+input[type=text], select, input[type=email], input[type=number]{
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+
+ input[type=submit]{
+	width:90%;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #4CAF50;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	border:none;
+	color: white; 	 
+}
+
+textarea{
+	padding-top: 10px;
+	font-family: sans-serif;
+	border-radius: 5px;
+	width: 90%;
+}
+
+.myform{
+margin-left: 40px;
+padding-top: 50px;
+font-size: 20px;
+
+}
+
+.radio, .checkbox{
+	font-size: 20px;
+	color: white;
+}
+
