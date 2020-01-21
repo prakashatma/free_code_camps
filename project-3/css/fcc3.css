@@ -1,0 +1,131 @@
+body{
+	font-family: monospace,sans-serif;
+	background-color: #F5F5F5;
+}
+
+.nav{
+	overflow: hidden;
+
+}
+.navigation img{
+	float: left;
+	font-size: 10px;
+	margin-top: 10px;
+	width: 400px;
+	
+}
+
+.navigation{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	margin-bottom: 100px;
+	background-color:#F5F5F5;
+}
+.navigation a{
+	display: block;
+	float: 	right;
+	text-align: center;
+	font-size: 20px;
+	margin:20px;
+	margin-right: 40px;
+	margin-left: 40px;
+	text-decoration-line: none;
+	color: black; 
+	
+}
+
+.head{
+	text-align: center;
+	padding-top: 100px;
+}
+
+.search, .submit{
+  	text-align: center;
+}
+
+button{
+	padding: 3px;
+	padding-left: 20px;
+	background-color: yellow;
+	border:none;
+}
+
+button:hover{
+	background-color: orange;
+}
+
+.Features{
+	margin-left: 200px;
+	margin-right: 250px;
+	margin-top: 100px;
+}
+
+input[type=email]{
+	padding: 5px 0px;
+}
+
+.youtube{
+	margin-left: 120px;
+	margin-top: 100px;
+	border: none;
+}
+
+.one, .two,.three{
+	border:1px solid black;
+	width: 350px;
+	display: inline-grid;
+	margin-right: 20px;
+}
+
+.Pricing{
+	text-align: center;
+}
+
+.one button, .two button, .three button{
+	width: 100px;
+	text-align: center;
+	margin-left: 130px;
+}
+
+.info h4{
+	background-color: #D3D3D3;
+	padding: 10px 0px;
+	margin-top: 0px;
+}
+
+.rate{
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.foo{
+	margin-left:100px;
+	margin-right: 120px;
+	background-color: #D3D3D3;
+	padding-left: 800px;
+	margin-top: 30px;
+}
+
+.last a{
+	margin-right: 40px;
+	text-decoration-line: none;
+	color:black;
+}
+
+.last{
+	padding-top: 15px;
+	padding-bottom: 10px;
+
+}
+
+.last p{
+	color: #778899;
+}
+
+.img img{
+	
+	width: 80px;
+	float: left;
+	margin-right: 30px;	
+}
