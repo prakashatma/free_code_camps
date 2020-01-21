@@ -1,0 +1,60 @@
+body{
+	font-family: sans-serif;
+}
+.sidenav{
+	overflow-y:scroll;
+	width: 320px;
+	position: fixed;
+	overflow-x: hidden;
+	top: 0;
+	bottom: 0;
+	float: left;
+}
+
+.ninfo a{
+	padding: 10px;
+	display: block;
+	width: 220px;
+	text-decoration-line: none;
+	color:#2F4F4F;
+
+}
+
+.nhead{
+	text-align: center;	
+	font-size: 20px;
+	position: fixed;
+	background-color:white;	
+	padding-left: 15px;
+	padding-right: 35px;
+}
+
+.ninfo{
+
+	margin-left: 20px;
+	margin-top: 100px;
+}
+
+hr{
+	margin-bottom: 3px;
+	margin-top:-10px;
+	width: 150%;
+	margin-left:-70px; 
+}
+
+.content{
+	margin-left: 350px;
+	margin-top: 50px;
+	margin-right: 30px;
+}
+
+.decorate{
+background-color:#dcdcdc;
+padding: 10px;
+border-radius: 10px;
+}
+
+.circle{
+	list-style-type: circle;
+	margin-left: 40px;
+}
