@@ -4,7 +4,7 @@
 
 **Assignment:-**
 
-* [Week 1](https://prakashatma.github.io/free_code_camps/project-1/)
+* [Week 1](https://prakashatma.github.io/free_code_camps/project-1/index.html)
 
 ### Project2: Survey Form
 
